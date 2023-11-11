@@ -1,4 +1,4 @@
-## Programming-logic
+# Programming-logic
 Neste repositório contém resoluções de alguns exercicios relacionados a logica de programação...
 
 Estes exercicios foram extraídos do livro 
